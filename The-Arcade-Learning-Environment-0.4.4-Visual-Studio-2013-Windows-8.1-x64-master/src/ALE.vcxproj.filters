@@ -465,6 +465,9 @@
     <ClCompile Include="os_dependent\SettingsWin32.cxx">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MyAgent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="emucore\rsynth\Elements.def">
@@ -956,6 +959,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="os_dependent\SettingsWin32.hxx">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyAgent.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

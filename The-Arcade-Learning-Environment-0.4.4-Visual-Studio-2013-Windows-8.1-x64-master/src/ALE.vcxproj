@@ -279,6 +279,7 @@
     <ClCompile Include="games\supported\YarsRevenge.cpp" />
     <ClCompile Include="games\supported\Zaxxon.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MyAgent.cpp" />
     <ClCompile Include="os_dependent\FSNodePOSIX.cxx" />
     <ClCompile Include="os_dependent\FSNodeWin32.cxx" />
     <ClCompile Include="os_dependent\OSystemUNIX.cxx" />
@@ -448,6 +449,7 @@
     <ClInclude Include="games\supported\WizardOfWor.hpp" />
     <ClInclude Include="games\supported\YarsRevenge.hpp" />
     <ClInclude Include="games\supported\Zaxxon.hpp" />
+    <ClInclude Include="MyAgent.hpp" />
     <ClInclude Include="os_dependent\OSystemUNIX.hxx" />
     <ClInclude Include="os_dependent\OSystemWin32.hxx" />
     <ClInclude Include="os_dependent\SettingsUNIX.hxx" />
